@@ -218,6 +218,9 @@ select {
                                 '.   description';
         grid-template-columns: 1fr 4fr;
     }
+       a[href*="github.com"],a[href*="others"],a[href*="work"],a[href*="projects"] {
+            color: black
+}
 }
 
 @layer components{
