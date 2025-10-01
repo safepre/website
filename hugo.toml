@@ -1,6 +1,9 @@
-baseURL = "https://example.org/"
+baseURL = "https://safelg.com"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "portfolio"
+
+[markup.goldmark.renderer]
+unsafe = true
 
 [taxonomies]
 tag = "tags"

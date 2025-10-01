@@ -1,0 +1,40 @@
+---
+title: "Others"
+---
+
+<section class = "routes-layout">
+<div class = "others-layout max-w" data-padding="compact">
+<h2>Cool photos</h2>
+<div class="photo-carousel">
+<div class="photo-carousel-container">
+<a href="/images/47150013.JPG" target="_blank">
+<img class="photo-img" src="/images/47150013.JPG" draggable="false">
+</a>
+<a href="/images/vibes.jpeg" target="_blank">
+<img class="photo-img" src="/images/vibes.jpeg" draggable="false">
+</a>
+<a href="/images/47170019.JPG" target="_blank">
+<img class="photo-img" src="/images/47170019.JPG" draggable="false">
+</a>
+</div>
+</div>
+<h2>Memorable videos</h2>
+<div class = "mem-vid-gallery">
+<a href="https://www.youtube.com/watch?v=1z0DxnzxyT8&t=1s">my first youtube video 8 years old</a>
+<a href = "https://www.youtube.com/watch?v=uSe7IGPgXoE">visting grandpa when i was 9</a>
+<a href = "https://www.youtube.com/watch?v=yDt02V3RZZw">playing with the possum</a>
+<a href = "https://www.youtube.com/watch?v=wDkWIImrjPk">me and pa being silly at 9 years</a>
+</div>
+<h2>When I used to play video games competitively</h2>
+<p class = "font-description">My all-time favorite game is Super Smash Bros. for Wii U, and Captain Falcon is my go-to character.</p>
+<div class = "comp-vid-gallery">
+<a href = "https://www.youtube.com/watch?v=-YJGx7567-k&list=LL&index=5&t=1s"> my first set in stream almost 10 years!</a>
+<a href = "https://www.youtube.com/watch?v=Fly5PTNaw2c&list=LL&index=397">my favorite set ever</a>
+<a href="https://www.youtube.com/watch?v=xTmqU7yl3aE&list=LL&index=100">i spiked him good here</a>
+<a href="https://www.youtube.com/watch?v=sDsJQepUiog&list=LL&index=99&t=5s">metaknights recovery is not great</a>
+<a href = "https://www.youtube.com/watch?v=6gv54lgGd1A&list=LL&index=3&t=1s">mario matchup is bad</a>
+<a href="https://www.youtube.com/watch?v=OfQsD49G8T4&list=LL&index=4&t=292s">fun set but fox is very annoying in this game</a>
+<a href = "https://www.youtube.com/watch?v=qv-KgYf8Q2o&list=LL&index=2&t=2s">I almost hit a viral clip</a>
+</div>
+</div>
+</section>
