@@ -3,7 +3,7 @@ title: "Others"
 ---
 
 <section class = "routes-layout">
-<div class = "others-layout max-w" data-padding="compact">
+<div class = "others-layout max-w">
 <h2>Cool photos</h2>
 <div class="photo-carousel">
 <div class="photo-carousel-container">

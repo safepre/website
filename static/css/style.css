@@ -200,14 +200,7 @@ select {
                      width: 100%; 
                      max-width: 300px;
                  }
-                .others-layout
-                {
-                  &[data-padding="compact"] {
-                    padding-inline:90px; 
-                } 
-
-
-                } 
+              
                 }
 
     .work-section
