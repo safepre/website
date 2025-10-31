@@ -116,14 +116,9 @@ select {
         margin-top:25px;
         justify-content:flex-start;
         margin-bottom:15px;
-
-    
-   ul svg {
-        width : 36px;
-        height : 36px;
     }
-    p a
-    { 
+
+    p a {
         text-decoration: underline;
     }
 }
@@ -219,7 +214,7 @@ select {
                                 '.   description';
         grid-template-columns: 1fr 4fr;
     }
-       a[href*="github.com"],a[href*="others"],a[href*="work"],a[href*="projects"] {
+       a[href*="github.com"],a[href*="linkedin.com"],a[href*="others"],a[href*="work"],a[href*="projects"] {
             color: black
 }
 }
@@ -340,6 +335,60 @@ select {
     opacity: 1;
     transform: translateY(0);
   }
+}
+
+@keyframes fall {
+  0% {
+    top: -10%;
+    transform: rotate(0deg);
+  }
+  100% {
+    top: 110%;
+    transform: rotate(360deg);
+  }
+}
+
+.pumpkin-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  z-index: 1;
+  overflow: hidden;
+}
+
+.pumpkin {
+  position: absolute;
+  font-size: 3rem;
+  animation: fall linear infinite;
+  opacity: 0.8;
+}
+
+.pumpkin1 {
+  left: 10%;
+  animation-duration: 8s;
+}
+
+.pumpkin2 {
+  left: 30%;
+  animation-duration: 10s;
+}
+
+.pumpkin3 {
+  left: 50%;
+  animation-duration: 9s;
+}
+
+.pumpkin4 {
+  left: 70%;
+  animation-duration: 11s;
+}
+
+.pumpkin5 {
+  left: 85%;
+  animation-duration: 7s;
 }
 
 @layer utilities{
