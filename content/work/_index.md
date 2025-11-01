@@ -3,7 +3,7 @@ title: "Work"
 ---
 
 <section class = "routes-layout">
-<div class = "max-w">
+<div class = "others-layout max-w" data-padding="compact">
 <h2>Work</h2>
 <p class = "font-description">Current job positions and past positions</p>
 

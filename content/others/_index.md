@@ -34,6 +34,7 @@ title: "Others"
 <a href="https://www.youtube.com/watch?v=sDsJQepUiog&list=LL&index=99&t=5s">Me vs Twisted Joker (Metaknight)</a>
 <a href = "https://www.youtube.com/watch?v=6gv54lgGd1A&list=LL&index=3&t=1s">Me vs Mastamario (Mario) </a>
 <a href="https://www.youtube.com/watch?v=OfQsD49G8T4&list=LL&index=4&t=292s">Me vs Xyosher (Fox)</a>
+<a href="https://www.youtube.com/watch?v=gpOMYq41Urk"> Me vs Raven (Robin/Corrin) </a> 
 <a href = "https://www.youtube.com/watch?v=qv-KgYf8Q2o&list=LL&index=2&t=2s">Me vs A2ZOMG (Dr Mario)</a>
 </div>
 </div>
