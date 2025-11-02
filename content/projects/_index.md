@@ -3,7 +3,7 @@ title: "Projects"
 ---
 
 <section class = "routes-layout">
-<div class = "others-layout max-w" data-padding="compact">
+<div class = "max-w">
         <h2>Projects</h2>
     <p class = "font-description">A collection of software projects I've built, most of these projects were done in javascript, python or C#.  </p>
     <ul class = "list">
