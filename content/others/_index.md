@@ -4,7 +4,7 @@ title: "Others"
 
 <section class = "routes-layout">
 <div class = "others-layout max-w" data-padding="compact">
-<h2>Cool photos</h2>
+<h2>Europe</h2>
 <div class="photo-carousel">
 <div class="photo-carousel-container">
 <a href="/images/47150013.JPG" target="_blank">
@@ -36,6 +36,6 @@ title: "Others"
 <a href="https://www.youtube.com/watch?v=OfQsD49G8T4&list=LL&index=4&t=292s">Me vs Xyosher (Fox)</a>
 <a href="https://www.youtube.com/watch?v=gpOMYq41Urk"> Me vs Raven (Robin/Corrin) </a> 
 <a href = "https://www.youtube.com/watch?v=qv-KgYf8Q2o&list=LL&index=2&t=2s">Me vs A2ZOMG (Dr Mario)</a>
-</div>
+</div> 
 </div>
 </section>
